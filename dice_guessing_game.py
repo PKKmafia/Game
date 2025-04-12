@@ -20,7 +20,7 @@ def play_game():
         print(f"Dice rolled: {result}")
 
         if guess == result:
-            print("🎉 Correct guess!")
+            print("🎉 Correct guess! You Win!")
         else:
             print("❌ Try again!")
 
