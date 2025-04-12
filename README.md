@@ -21,5 +21,5 @@ A simple game where you guess the outcome of a dice roll (1 to 6).
 ```bash
 Guess the dice roll (1-6) or type 'quit' to exit: 3
 Dice rolled: 5
-❌ Try again!
+Try again!
 ```
