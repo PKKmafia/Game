@@ -1,6 +1,6 @@
 # Dice Guessing Game
 
-A simple game where you guess the outcome of a dice roll (1 to 6).
+A simple game where you guess the outcome of a dice roll.
 
 ## Features
 
