@@ -1,3 +1,4 @@
+#game
 import random
 
 def roll_dice():
