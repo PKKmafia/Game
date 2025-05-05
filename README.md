@@ -1,6 +1,5 @@
 # Dice Guessing Game
-
-A simple game where you guess the outcome of a dice roll.
+A simple game where you guess the outcome of a **dice roll**.
 
 ## Features
 
@@ -21,5 +20,5 @@ A simple game where you guess the outcome of a dice roll.
 ```bash
 Guess the dice roll (1-6) or type 'quit' to exit: 3
 Dice rolled: 5
-❌ Try again!
+❌ Try again!!!
 ```
