@@ -1,6 +1,9 @@
 #game
 import random
 
+def hello():
+    print('welcome')
+    
 def roll_dice():
     return random.randint(1, 6)
 
