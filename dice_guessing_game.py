@@ -1,5 +1,6 @@
 #game
 import random
+import random
 
 def hello():
     print('welcome')
