@@ -1,4 +1,4 @@
-# Dice Guessing Game
+# Dice Guessing Game -A simple game!
 A simple game where you guess the outcome of a **dice roll**.
 
 ## Features
